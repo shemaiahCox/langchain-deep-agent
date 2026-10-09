@@ -1,4 +1,4 @@
-# ---- Data Analysis Agent ----
+# ---- Data Analysis Agent - langchain version ----
 # Builds a sandboxed agent that summarizes sales data and loads local skills.
 
 # -- Imports --
